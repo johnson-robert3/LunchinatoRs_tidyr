@@ -1,8 +1,6 @@
 # LunchinatoRs_tidyr
 
-LunchinatoRs workshop on using the 'tidyr' package (part of the Tidyverse) for organizing data sets. 
-
-Some hopefully helpful examples for learning some of the basic tidyr functions
+Some hopefully helpful examples and materials for learning some basic functions from the 'tidyr' package (part of the Tidyverse) for organizing data sets. 
 
 ### Functions
 - pivot_longer()
