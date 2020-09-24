@@ -1,8 +1,5 @@
 # LunchinatoRs_tidyr
 
-###### *Robert Johnson (Sep. 2020)*
-
-
 Some hopefully helpful examples and materials for learning some basic functions from the 'tidyr' package (part of the Tidyverse) for organizing data sets. 
 
 ### Functions
@@ -12,3 +9,6 @@ Some hopefully helpful examples and materials for learning some basic functions 
 - unite()
 - nest()
 - unnest()
+
+
+###### *Robert Johnson (Sep. 2020)*
