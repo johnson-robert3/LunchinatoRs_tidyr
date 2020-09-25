@@ -250,7 +250,7 @@ lake_nest = lake_nest %>%
    rename(data_long = data) %>%
    # the family of map() functions from the 'purrr' package are ideal for iterating over list-columns
    mutate(data_wide = map(data_long, ~pivot_wider(.,
-                                                  id_cols = c("date", "analyte"),
+                                                  id_cols = date,
                                                   names_from = analyte,
                                                   values_from = c("result", "detect"))))
 
